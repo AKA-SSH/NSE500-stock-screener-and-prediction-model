@@ -1,0 +1,12 @@
+pandas
+pandas_ta
+pandas-profiling
+
+jupyter
+yfinance
+scikit-learn
+matplotlib
+datetime
+
+streamlit
+torch
