@@ -1,6 +1,6 @@
 # NSE500 Stock Screener and Prediction Model
 
-https://github.com/AKA-SSH/NSE500-stock-screener-and-prediction-model/assets/105537422/c08bf8bf-3d9c-4f71-bea8-e77163551c4d
+https://github.com/AKA-SSH/NSE500-stock-screener-and-prediction-model/assets/105537422/63e7e5bc-b437-4528-9b21-7f4e2e4df5eb
 
 This repository contains a stock screener and prediction model for the NSE500 stock index. The National Stock Exchange of India (NSE) 500 index, also known as the NSE500, represents the top 500 companies listed on the NSE.
 
